@@ -5,5 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+   
+  <ItemGroup>
+    <ProjectReference Include="..\..\submodules\mod.two\src\mod.two.lib\mod.two.lib.csproj" />
+  </ItemGroup>
 
 </Project>
